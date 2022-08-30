@@ -86,7 +86,10 @@ button:hover{
     margin-top: 3rem;
     margin-left: 1rem;
     margin-bottom: 3rem;
-    padding: 1em;
+    padding-left: 2.15em;
+    padding-right: 2.15em;
+    padding-top: 1em;
+    padding-bottom: 1em;
     text-decoration: none;
     background-color: rgb(238, 158, 9);
     font-size: 1.2rem;
@@ -98,7 +101,10 @@ button:hover{
     margin-top: 3rem;
     margin-left: 1rem;
     margin-bottom: 1rem;
-    padding: 1em;
+    padding-left: 2.15em;
+    padding-right: 2.15em;
+    padding-top: 1em;
+    padding-bottom: 1em;
     text-decoration: none;
     background-color: rgb(238, 158, 9);
     font-size: 1.2rem;
